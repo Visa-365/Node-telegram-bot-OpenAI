@@ -1,0 +1,7 @@
+/node_modules
+.env
+.idea
+consol.log
+consol_k.log
+error.log
+index.txt
